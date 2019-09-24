@@ -16,9 +16,9 @@ https://marvelapp.com/cf8ea2e/screen/61477468
  * Cadastro (nome, sexo, data nascimento, tipo sanguíneo, telefone, foto, endereço, é doador?)<br/>
  * Timeline de campanhas (opção de compartilhar nas redes sociais, validade dos pedidos ser 10 dias)<br/>
  * Menu "Criar campanha" (Fazer pedido):<br/>
-   3.1 Etapa 1 - Formulário contendo dados do paciente, referência: http://doesanguepb.com.br/?p=pedidodoacao <br/>
-   3.2 Etapa 2 - Ilustrações sobre como fazer campanha entre familiares <br/>
-   3.3 Etapa 3 - Compartilhar nas redes sociais <br/>
+   * Etapa 1 - Formulário contendo dados do paciente, referência: http://doesanguepb.com.br/?p=pedidodoacao <br/>
+   * Etapa 2 - Ilustrações sobre como fazer campanha entre familiares <br/>
+   * Etapa 3 - Compartilhar nas redes sociais <br/>
  * Menu "Chat" - Chatbot com IA (Inicia com informações básicas, tira dúvidas a respeito da doação de sangue) <br/>
  * Menu "Locais" - Mapa com a localização dos locais de doação, opção de rota para chegar ao hemocentro mais próximo. <br/>
  * Notificação para doadores (notifica usuários do app quando for criada nova campanha, criar opção para admin em casos de estoques baixos) <br/>
