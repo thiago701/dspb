@@ -1,10 +1,14 @@
-# Requisitos do aplicativo do Aplicativo Doe Sangue PB
+# Requisitos do Aplicativo Doe Sangue PB
 
 Problema: Baixo número de doadores de sangue regulares, e a falta de sangue para pacientes em tratamento médico.
 
 Objetivo a ser alcançado pelo app: Aumentar o percentual de doadores regulares, que através do uso de um aplicativo (android e ios) buscar aproximar pacientes e doadores formando uma rede solidária.
 
-Protótipo inicial: https://marvelapp.com/cf8ea2e/screen/61477468
+# Protótipo inicial: 
+
+<img src="https://github.com/thiago701/dspb/blob/master/prototipo1.png" width = "150" height = "150" alt="SharEDITor" />
+
+https://marvelapp.com/cf8ea2e/screen/61477468
 
 # Requisitos essenciais: 
 
@@ -25,20 +29,19 @@ Protótipo inicial: https://marvelapp.com/cf8ea2e/screen/61477468
 
 # Requisitos importantes:
 
- * Comentários dos doadores (permitir trocar mensagens entre pacientes e doadores)<br/>
- * Notificação aos doadores pelos pacientes (Gratidão pela doação)<br/>
- * Cadastro como voluntário do DSPB<br/>
- * Área dos Hemocentros (localização, telefone, horários, etc)<br/>
- * Mapa de doadores (quantidade de doadores por área)<br/>
- * Notificar campanhas pelo Hemocentro<br/>
+ * Doadores e pacientes poderem comentar as campanhas <br/>
+ * Doadores receberem agradecimento pelos pacientes <br/>
+ * Informações detalhadas sobre os Hemocentros (localização, telefone, horários, etc)<br/>
+ * "Mapa de doadores" para exibir a quantidade de doadores por área <br/>
+  
 
-# Requisitos desejáveis: 
+# Requisitos desejáveis: (Interoperabilidade com o Hemocentro)
 
- * Interface com Hemocentro... <br/>
- * Ver situação dos estoques (parceria/integração com Hemoliga)<br/>
- * Notificar automaticamente quando o doador estiver apto para doar. <br/>
- * App como documento digital do doador (substituir documentos)<br/>
- * App como carteirinha digital do doador (mostrar histórico de doações e automatizar emissão da declaração de doador regular para uso em concursos públicos).<br/>
+* Envio de notificações para apoio de campanhas em andamento (Campanhas de igrejas, ONGs ou do Hemocentro) <br/>
+* Interoperabilidade com o Hemocentro - Visualizar a situação dos estoques (parceria/integração com Hemoliga)<br/>
+* Lembrete: Notificar automaticamente quando o doador estiver apto para doar. <br/>
+* App como documento digital do doador (substituir documentos a partir de check-in no Hemocentro)<br/>
+* App como carteirinha digital do doador (mostrar histórico de doações e automatizar emissão da declaração de doador regular para uso em concursos públicos).<br/>
 
 
 # Desenvolvedores: 
