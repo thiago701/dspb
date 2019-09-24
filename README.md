@@ -49,4 +49,4 @@ Interoperabilidade com o Hemocentro:
 
 # Desenvolvedores: 
 
-Alysson Tibério, Thiago Gonçalo, Hallison Fonseca, Jonathas de Sousa, Luciano Carvalho. 
+Alysson Tibério, Thiago Gonçalo, Hallison Fonseca, Jonathas de Sousa, Luciano Carvalho e Alisson Sena. 
