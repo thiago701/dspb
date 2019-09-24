@@ -6,7 +6,7 @@ Problema: Baixo número de doadores de sangue regulares, e a falta de sangue par
 
 Objetivo a ser alcançado pelo app: Aumentar o percentual de doadores regulares, que através do uso de um aplicativo (android e ios) buscar aproximar pacientes e doadores formando uma rede solidária.
 
-Protótipo inicial: https://marvelapp.com/cf8ea2e/screen/61501679
+Protótipo inicial: https://marvelapp.com/cf8ea2e/screen/61477468
 
 # Requisitos essenciais: 
 
