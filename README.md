@@ -29,7 +29,7 @@ https://marvelapp.com/cf8ea2e/screen/61477468
 
 # Requisitos importantes:
 
- * Chatbot com IA capaz de tirar dúvidas dos doadores de sangue.
+ * Chatbot com IA capaz de responder a grande maioria das dúvidas dos doadores de sangue.
  * Doadores e pacientes poderem comentar as campanhas <br/>
  * Doadores receberem agradecimento pelos pacientes <br/>
  * Informações detalhadas sobre os Hemocentros (localização, telefone, horários, etc)<br/>
