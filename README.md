@@ -29,13 +29,16 @@ https://marvelapp.com/cf8ea2e/screen/61477468
 
 # Requisitos importantes:
 
+ * Chatbot com IA capaz de tirar dúvidas dos doadores de sangue.
  * Doadores e pacientes poderem comentar as campanhas <br/>
  * Doadores receberem agradecimento pelos pacientes <br/>
  * Informações detalhadas sobre os Hemocentros (localização, telefone, horários, etc)<br/>
  * "Mapa de doadores" para exibir a quantidade de doadores por área <br/>
   
 
-# Requisitos desejáveis: (Interoperabilidade com o Hemocentro)
+# Requisitos desejáveis:
+
+Interoperabilidade com o Hemocentro:
 
 * Envio de notificações para apoio de campanhas em andamento (Campanhas de igrejas, ONGs ou do Hemocentro) <br/>
 * Interoperabilidade com o Hemocentro - Visualizar a situação dos estoques (parceria/integração com Hemoliga)<br/>
