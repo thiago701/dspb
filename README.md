@@ -1,4 +1,4 @@
-# Requisitos do Aplicativo Doe Sangue PB
+# Aplicativo Doe Sangue PB
 
 Problema: Baixo número de doadores de sangue regulares, e a falta de sangue para pacientes em tratamento médico.
 
