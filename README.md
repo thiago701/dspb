@@ -1,6 +1,4 @@
-# Aplicativo Doe Sangue PB
-
-# Requisitos do aplicativo
+# Requisitos do aplicativo do Aplicativo Doe Sangue PB
 
 Problema: Baixo número de doadores de sangue regulares, e a falta de sangue para pacientes em tratamento médico.
 
@@ -13,7 +11,7 @@ Protótipo inicial: https://marvelapp.com/cf8ea2e/screen/61477468
 1. Login (conta google) - Login necessário devido a criação de campanhas visando garantir confiabilidade, além da necessidade de fazer notificações sobre a falta de sangue nos estoques, sendo necessário saber a localização e o tipo sanguíneo do usuário. 
 2. Cadastro (nome, sexo, data nascimento, tipo sanguíneo, telefone, foto, endereço, é doador? )
 3. Timeline de campanhas (opção de compartilhar nas redes sociais, validade dos pedidos ser 10 dias)
-4. Menu "Criar campanha" (Fazer pedido):
+4. Menu "Criar campanha" (Fazer pedido):<br/>
    3.1 Etapa 1 - Formulário contendo dados do paciente, referência: http://doesanguepb.com.br/?p=pedidodoacao <br/>
    3.2 Etapa 2 - Ilustrações sobre como fazer campanha entre familiares <br/>
    3.3 Etapa 3 - Compartilhar nas redes sociais <br/>
