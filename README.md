@@ -2,11 +2,11 @@
 
 Problema: Baixo número de doadores de sangue regulares, e a falta de sangue para pacientes em tratamento médico.
 
-Objetivo a ser alcançado pelo app: Aumentar o percentual de doadores regulares, que através do uso de um aplicativo (android e ios) buscar aproximar pacientes e doadores formando uma rede solidária.
+Objetivo do app: Aumentar o percentual de doadores regulares, que através do uso de um aplicativo inteligente (android e ios) buscar aproximar pacientes e doadores formando uma rede solidária.
 
 # Protótipo inicial: 
 
-<img src="https://github.com/thiago701/dspb/blob/master/prototipo1.png" width = "150" height = "150" alt="SharEDITor" />
+<img src="https://github.com/thiago701/dspb/blob/master/prototipo1.png" alt="App DSPB" />
 
 https://marvelapp.com/cf8ea2e/screen/61477468
 
