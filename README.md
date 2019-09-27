@@ -43,7 +43,7 @@ Interoperabilidade com o Hemocentro:
 * Envio de notificações para apoio de campanhas em andamento (Campanhas de igrejas, ONGs ou do Hemocentro) <br/>
 * Interoperabilidade com o Hemocentro - Visualizar a situação dos estoques (parceria/integração com Hemoliga)<br/>
 * Lembrete: Notificar automaticamente quando o doador estiver apto para doar. <br/>
-* App como documento digital do doador (substituir documentos a partir de check-in no Hemocentro)<br/>
+* App como documento digital do doador (substituir documentos na recepção e agilizar triagem clínica a partir de check-in no Hemocentro)<br/>
 * App como carteirinha digital do doador (mostrar histórico de doações e automatizar emissão da declaração de doador regular para uso em concursos públicos).<br/>
 
 
