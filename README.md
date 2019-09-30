@@ -1,3 +1,9 @@
+
+--> <p style='color:red'>Migrado para https://github.com/DoeSanguePB/aplicativo</p>
+
+
+
+
 # Aplicativo Doe Sangue PB
 
 Problema: Baixo número de doadores de sangue regulares, e a falta de sangue para pacientes em tratamento médico.
