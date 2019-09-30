@@ -1,5 +1,5 @@
 
---> <p style='color:red'>Migrado para https://github.com/DoeSanguePB/aplicativo</p>
+--> Migrado para https://github.com/DoeSanguePB/aplicativo
 
 
 
